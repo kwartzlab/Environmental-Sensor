@@ -6,8 +6,8 @@
 
   (title_block
     (title "Kwartzlab Environmental Sensor")
-    (date "2023-03-24")
-    (rev "1")
+    (date "2023-04-04")
+    (rev "2")
     (company "Created By: Erin Reed (FireLabs - www.firelabs.ca)")
   )
 
@@ -350,7 +350,7 @@
     (pin "1" (uuid f5d9c009-bc87-46f6-bd7f-ecabe63a5ea0))
     (pin "2" (uuid f942a625-e4fd-4ce4-9655-d6c993cd4d9d))
     (instances
-      (project "KwartzLab-SensorBoard-Rev1"
+      (project "KwartzLab-SensorBoard-Rev2"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/2426fcd9-5a43-41a7-b855-a8909e878faf"
           (reference "C1") (unit 1)
         )
@@ -388,7 +388,7 @@
     )
     (pin "1" (uuid f45b3b7b-51c0-4ed8-a548-093c6391b84c))
     (instances
-      (project "KwartzLab-SensorBoard-Rev1"
+      (project "KwartzLab-SensorBoard-Rev2"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/de723989-357b-4e50-b842-9c308d4cbf22"
           (reference "#PWR030") (unit 1)
         )
@@ -413,7 +413,7 @@
     )
     (pin "1" (uuid 599aab07-3e39-46ac-9066-b795b75c8842))
     (instances
-      (project "KwartzLab-SensorBoard-Rev1"
+      (project "KwartzLab-SensorBoard-Rev2"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/de723989-357b-4e50-b842-9c308d4cbf22"
           (reference "#PWR029") (unit 1)
         )
@@ -441,7 +441,7 @@
     (pin "3" (uuid 1f406941-d465-4e41-96a0-387cf1d66044))
     (pin "4" (uuid 05dd0500-2a1e-4648-99de-78406ba531f4))
     (instances
-      (project "KwartzLab-SensorBoard-Rev1"
+      (project "KwartzLab-SensorBoard-Rev2"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/de723989-357b-4e50-b842-9c308d4cbf22"
           (reference "D3") (unit 1)
         )
@@ -466,7 +466,7 @@
     )
     (pin "1" (uuid cb0692a0-4d88-40f6-a839-59ae09629c03))
     (instances
-      (project "KwartzLab-SensorBoard-Rev1"
+      (project "KwartzLab-SensorBoard-Rev2"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/de723989-357b-4e50-b842-9c308d4cbf22"
           (reference "#PWR028") (unit 1)
         )

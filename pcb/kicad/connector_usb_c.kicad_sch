@@ -6,8 +6,8 @@
 
   (title_block
     (title "Kwartzlab Environmental Sensor")
-    (date "2023-03-24")
-    (rev "1")
+    (date "2023-04-04")
+    (rev "2")
     (company "Created By: Erin Reed (FireLabs - www.firelabs.ca)")
   )
 
@@ -986,7 +986,7 @@
     (pin "1" (uuid 3171f1d7-9bce-46b4-899b-db86dcf5c28e))
     (pin "2" (uuid 353f260a-2419-4753-88f1-3ea56d92091d))
     (instances
-      (project "KwartzLab-SensorBoard-Rev1"
+      (project "KwartzLab-SensorBoard-Rev2"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/c36effe9-aa4f-4169-b808-b0055ccb3a92"
           (reference "R4") (unit 1)
         )
@@ -1020,7 +1020,7 @@
     (pin "1" (uuid fb8a1002-d541-4d14-a823-c3057c3c2eed))
     (pin "2" (uuid 9ee80298-45fc-41c6-916f-4f68db08ddec))
     (instances
-      (project "KwartzLab-SensorBoard-Rev1"
+      (project "KwartzLab-SensorBoard-Rev2"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/c36effe9-aa4f-4169-b808-b0055ccb3a92"
           (reference "C6") (unit 1)
         )
@@ -1050,7 +1050,7 @@
     )
     (pin "1" (uuid 648cc984-d274-4b36-8ce9-33b38733b90f))
     (instances
-      (project "KwartzLab-SensorBoard-Rev1"
+      (project "KwartzLab-SensorBoard-Rev2"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/c36effe9-aa4f-4169-b808-b0055ccb3a92"
           (reference "#PWR023") (unit 1)
         )
@@ -1084,7 +1084,7 @@
     (pin "1" (uuid c43bc3fa-6b45-4834-bf2d-d2ab14b5b88f))
     (pin "2" (uuid 18319699-0698-4210-a1b4-c4abac0ac571))
     (instances
-      (project "KwartzLab-SensorBoard-Rev1"
+      (project "KwartzLab-SensorBoard-Rev2"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/c36effe9-aa4f-4169-b808-b0055ccb3a92"
           (reference "R5") (unit 1)
         )
@@ -1118,7 +1118,7 @@
     (pin "1" (uuid 6b500beb-b171-40bb-b855-18caa29dcc7b))
     (pin "2" (uuid c9d64224-621c-4d1a-9bce-1d184c8e45ce))
     (instances
-      (project "KwartzLab-SensorBoard-Rev1"
+      (project "KwartzLab-SensorBoard-Rev2"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/c36effe9-aa4f-4169-b808-b0055ccb3a92"
           (reference "D2") (unit 1)
         )
@@ -1148,7 +1148,7 @@
     )
     (pin "1" (uuid fb4b8bc6-2b9f-4dac-bd0d-2469caa5704a))
     (instances
-      (project "KwartzLab-SensorBoard-Rev1"
+      (project "KwartzLab-SensorBoard-Rev2"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/c36effe9-aa4f-4169-b808-b0055ccb3a92"
           (reference "#PWR022") (unit 1)
         )
@@ -1181,7 +1181,7 @@
     (pin "3" (uuid d9f2167c-2feb-408c-b8d5-edff504f36b9))
     (pin "4" (uuid afbec6b4-5ca1-414c-a8ff-fbcfd5be9968))
     (instances
-      (project "KwartzLab-SensorBoard-Rev1"
+      (project "KwartzLab-SensorBoard-Rev2"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/c36effe9-aa4f-4169-b808-b0055ccb3a92"
           (reference "D1") (unit 1)
         )
@@ -1206,7 +1206,7 @@
     )
     (pin "1" (uuid d7caa7fb-a253-4f57-be2c-d21e2bf8a6a1))
     (instances
-      (project "KwartzLab-SensorBoard-Rev1"
+      (project "KwartzLab-SensorBoard-Rev2"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/c36effe9-aa4f-4169-b808-b0055ccb3a92"
           (reference "#PWR025") (unit 1)
         )
@@ -1236,7 +1236,7 @@
     )
     (pin "1" (uuid 141f0d83-a994-4ce6-b85c-1628e77350ea))
     (instances
-      (project "KwartzLab-SensorBoard-Rev1"
+      (project "KwartzLab-SensorBoard-Rev2"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/c36effe9-aa4f-4169-b808-b0055ccb3a92"
           (reference "#PWR024") (unit 1)
         )
@@ -1285,7 +1285,7 @@
     (pin "B9" (uuid 14f87e57-01f6-4f87-af96-b9278ed7accb))
     (pin "S1" (uuid dad067d2-8ea8-4b58-8011-9fdf0f0c220c))
     (instances
-      (project "KwartzLab-SensorBoard-Rev1"
+      (project "KwartzLab-SensorBoard-Rev2"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/c36effe9-aa4f-4169-b808-b0055ccb3a92"
           (reference "J2") (unit 1)
         )
@@ -1315,7 +1315,7 @@
     )
     (pin "1" (uuid 555d57e5-94ad-44b9-906d-e3cab5a02257))
     (instances
-      (project "KwartzLab-SensorBoard-Rev1"
+      (project "KwartzLab-SensorBoard-Rev2"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/c36effe9-aa4f-4169-b808-b0055ccb3a92"
           (reference "#PWR021") (unit 1)
         )
