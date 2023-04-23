@@ -6,8 +6,8 @@
 
   (title_block
     (title "Kwartzlab Environmental Sensor")
-    (date "2023-04-04")
-    (rev "2")
+    (date "2023-04-20")
+    (rev "3")
     (company "Created By: Erin Reed (FireLabs - www.firelabs.ca)")
   )
 
@@ -768,7 +768,7 @@
     (pin "1" (uuid 814eabee-2b1c-43cc-a29f-23b419a8a884))
     (pin "2" (uuid 2b94fe9a-17f2-44f9-ac3d-1f346540cd85))
     (instances
-      (project "KwartzLab-SensorBoard-Rev2"
+      (project "KwartzLab-SensorBoard-Rev3"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/2426fcd9-5a43-41a7-b855-a8909e878faf"
           (reference "C2") (unit 1)
         )
@@ -803,7 +803,7 @@
     )
     (pin "1" (uuid c0436877-1661-46ba-84e6-cc4cab965cad))
     (instances
-      (project "KwartzLab-SensorBoard-Rev2"
+      (project "KwartzLab-SensorBoard-Rev3"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/2426fcd9-5a43-41a7-b855-a8909e878faf"
           (reference "#PWR016") (unit 1)
         )
@@ -833,7 +833,7 @@
     )
     (pin "1" (uuid 57d7bbd2-2393-41b5-a563-d4bb43b22a80))
     (instances
-      (project "KwartzLab-SensorBoard-Rev2"
+      (project "KwartzLab-SensorBoard-Rev3"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/2426fcd9-5a43-41a7-b855-a8909e878faf"
           (reference "#PWR014") (unit 1)
         )
@@ -920,7 +920,7 @@
     (pin "8" (uuid e42fa4ba-0e35-49ea-9217-56375add7ac5))
     (pin "9" (uuid 51d274e5-621b-4a73-b8b3-824069f6a0a9))
     (instances
-      (project "KwartzLab-SensorBoard-Rev2"
+      (project "KwartzLab-SensorBoard-Rev3"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/2426fcd9-5a43-41a7-b855-a8909e878faf"
           (reference "U1") (unit 1)
         )
@@ -950,7 +950,7 @@
     )
     (pin "1" (uuid 36fef840-32e5-46c4-a191-a61a4c07e785))
     (instances
-      (project "KwartzLab-SensorBoard-Rev2"
+      (project "KwartzLab-SensorBoard-Rev3"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/2426fcd9-5a43-41a7-b855-a8909e878faf"
           (reference "#PWR017") (unit 1)
         )
@@ -985,7 +985,7 @@
     )
     (pin "1" (uuid 94795a84-15af-4eb2-89d6-d5c6da86b761))
     (instances
-      (project "KwartzLab-SensorBoard-Rev2"
+      (project "KwartzLab-SensorBoard-Rev3"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/2426fcd9-5a43-41a7-b855-a8909e878faf"
           (reference "#PWR015") (unit 1)
         )
@@ -1016,7 +1016,7 @@
     (pin "1" (uuid af879a2c-1a79-48fb-98f9-a67b7fc95319))
     (pin "2" (uuid 7360687c-17da-42c6-9175-fac9ca02c778))
     (instances
-      (project "KwartzLab-SensorBoard-Rev2"
+      (project "KwartzLab-SensorBoard-Rev3"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/2426fcd9-5a43-41a7-b855-a8909e878faf"
           (reference "C3") (unit 1)
         )
@@ -1052,7 +1052,7 @@
     (pin "1" (uuid 19042f35-7023-442e-9d7c-e6cace62db42))
     (pin "2" (uuid d025db14-9caa-4053-961f-f10e44f6435f))
     (instances
-      (project "KwartzLab-SensorBoard-Rev2"
+      (project "KwartzLab-SensorBoard-Rev3"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/2426fcd9-5a43-41a7-b855-a8909e878faf"
           (reference "R14") (unit 1)
         )
@@ -1088,7 +1088,7 @@
     (pin "1" (uuid 726f87b6-d63b-4875-a56a-e22e26852336))
     (pin "2" (uuid 7fd1c479-d6f9-4e51-a219-af371a11265a))
     (instances
-      (project "KwartzLab-SensorBoard-Rev2"
+      (project "KwartzLab-SensorBoard-Rev3"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/2426fcd9-5a43-41a7-b855-a8909e878faf"
           (reference "C1") (unit 1)
         )
@@ -1124,7 +1124,7 @@
     (pin "1" (uuid 3eadd80e-2738-4d86-bb64-885835bfedb3))
     (pin "2" (uuid bc6278f6-7934-4a27-ba24-d076dac62392))
     (instances
-      (project "KwartzLab-SensorBoard-Rev2"
+      (project "KwartzLab-SensorBoard-Rev3"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/2426fcd9-5a43-41a7-b855-a8909e878faf"
           (reference "R3") (unit 1)
         )
@@ -1159,7 +1159,7 @@
     )
     (pin "1" (uuid 0b77dbbb-1122-49cf-adc2-2a5604912af9))
     (instances
-      (project "KwartzLab-SensorBoard-Rev2"
+      (project "KwartzLab-SensorBoard-Rev3"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/2426fcd9-5a43-41a7-b855-a8909e878faf"
           (reference "#PWR013") (unit 1)
         )
@@ -1194,7 +1194,7 @@
     )
     (pin "1" (uuid 91f5a26e-96b5-44b2-9842-064a38f3e041))
     (instances
-      (project "KwartzLab-SensorBoard-Rev2"
+      (project "KwartzLab-SensorBoard-Rev3"
         (path "/02789d54-6086-45b9-8196-8325e6f33099/2426fcd9-5a43-41a7-b855-a8909e878faf"
           (reference "#PWR059") (unit 1)
         )
