@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "**/*_vars/**/*.yml": "ansible",
+    "**/*ansible*/**/*.yml": "ansible",
+    "**/defaults/**/*.yml": "ansible",
+    "**/handler/*.yml": "ansible",
+    "**/inventory/*/*.yml": "ansible",
+    "**/playbooks/**/*.yml": "ansible",
+    "**/roles/**/*.yml": "ansible",
+    "**/tasks/**/*.yml": "ansible",
+    "**/vars/**/*.yml": "ansible",
+    "*.h": "c",
+    "system_error": "cpp"
+  }
+}

@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"name": "Kwartzlab Env Board Test Script",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"**/*_vars/**/*.yml": "ansible",
+			"**/*ansible*/**/*.yml": "ansible",
+			"**/defaults/**/*.yml": "ansible",
+			"**/handler/*.yml": "ansible",
+			"**/inventory/*/*.yml": "ansible",
+			"**/playbooks/**/*.yml": "ansible",
+			"**/roles/**/*.yml": "ansible",
+			"**/tasks/**/*.yml": "ansible",
+			"**/vars/**/*.yml": "ansible",
+			"*.h": "c",
+			"array": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp"
+		}
+	}
+}
